@@ -1,0 +1,17 @@
+C:\ProyectosC#\ExamenCafeteriaAdonisJunior\bin\Debug\net10.0-windows\ExamenCafeteriaAdonisJunior.exe
+C:\ProyectosC#\ExamenCafeteriaAdonisJunior\bin\Debug\net10.0-windows\ExamenCafeteriaAdonisJunior.deps.json
+C:\ProyectosC#\ExamenCafeteriaAdonisJunior\bin\Debug\net10.0-windows\ExamenCafeteriaAdonisJunior.runtimeconfig.json
+C:\ProyectosC#\ExamenCafeteriaAdonisJunior\bin\Debug\net10.0-windows\ExamenCafeteriaAdonisJunior.dll
+C:\ProyectosC#\ExamenCafeteriaAdonisJunior\bin\Debug\net10.0-windows\ExamenCafeteriaAdonisJunior.pdb
+C:\ProyectosC#\ExamenCafeteriaAdonisJunior\obj\Debug\net10.0-windows\ExamenCafeteriaAdonisJunior.FrmPedidos.resources
+C:\ProyectosC#\ExamenCafeteriaAdonisJunior\obj\Debug\net10.0-windows\ExamenCafeteriaAdonisJunior.csproj.GenerateResource.cache
+C:\ProyectosC#\ExamenCafeteriaAdonisJunior\obj\Debug\net10.0-windows\ExamenCafeteriaAdonisJunior.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosC#\ExamenCafeteriaAdonisJunior\obj\Debug\net10.0-windows\ExamenCafeteriaAdonisJunior.AssemblyInfoInputs.cache
+C:\ProyectosC#\ExamenCafeteriaAdonisJunior\obj\Debug\net10.0-windows\ExamenCafeteriaAdonisJunior.AssemblyInfo.cs
+C:\ProyectosC#\ExamenCafeteriaAdonisJunior\obj\Debug\net10.0-windows\ExamenCafeteriaAdonisJunior.csproj.CoreCompileInputs.cache
+C:\ProyectosC#\ExamenCafeteriaAdonisJunior\obj\Debug\net10.0-windows\ExamenCafeteriaAdonisJunior.dll
+C:\ProyectosC#\ExamenCafeteriaAdonisJunior\obj\Debug\net10.0-windows\refint\ExamenCafeteriaAdonisJunior.dll
+C:\ProyectosC#\ExamenCafeteriaAdonisJunior\obj\Debug\net10.0-windows\ExamenCafeteriaAdonisJunior.pdb
+C:\ProyectosC#\ExamenCafeteriaAdonisJunior\obj\Debug\net10.0-windows\ExamenCafeteriaAdonisJunior.genruntimeconfig.cache
+C:\ProyectosC#\ExamenCafeteriaAdonisJunior\obj\Debug\net10.0-windows\ref\ExamenCafeteriaAdonisJunior.dll
+C:\ProyectosC#\ExamenCafeteriaAdonisJunior\obj\Debug\net10.0-windows\ExamenCa.7C562940.Up2Date
