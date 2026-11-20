@@ -29,13 +29,8 @@ Sistema en C# Windows Forms para tomar pedidos en la cafetería "El Buen Sabor".
 - Montos mostrados como `RD$ 0.00` en Subtotal, Descuento, Empaque, ITBIS y Total a pagar.
 
 ## 6. Capturas de pantalla
-![Captura del programa](<img width="911" height="533" alt="b72a8a64-ee7e-49e1-b5bf-965b05fa200c" src="https://github.com/user-attachments/assets/de112796-52b5-4514-a902-9190d605d7a9" />
-)
-![Captura 2](<img width="922" height="498" alt="f0b9dcd2-4669-414b-8cf2-d4e2c6731e55" src="https://github.com/user-attachments/assets/0eb11afb-2217-43cc-b95f-37b532fd7654" />
-)
-![Captura 3](<img width="920" height="498" alt="33c6bd9f-605b-4ace-8d67-e06e4ac8f513" src="https://github.com/user-attachments/assets/7a43a256-1e90-4377-b00a-2eeeb19a9c7e" />
-)
-![Captura 4](<img width="936" height="517" alt="98c2c911-2ad9-4a80-a189-f9e1a2c2f98a" src="https://github.com/user-attachments/assets/b3238f52-51e3-4ed8-9795-f7c9313d63bb" />
-)
-
+![Captura 1](Captura1.png.jpg)
+![Captura 2](Captura2.png.jpg)
+![Captura 3](Captura3.png.jpg)
+![Captura 4](Captura4.png.jpg)
 
